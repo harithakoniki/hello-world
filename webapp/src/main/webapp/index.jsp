@@ -9,7 +9,7 @@
     <input type="text" placeholder="Enter First Name" name="FirstName" id="FirstName" required>
     <br>
 
-    <label for="LastName"><b>Enter Name</b></label>
+    <label for="LastName"><b>Enter Last Name</b></label>
     <input type="text" placeholder="Enter Last Name" name="LastName" id="LastName" required>
     <br>
     
