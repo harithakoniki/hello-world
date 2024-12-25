@@ -17,7 +17,7 @@
     <input type="text" placeholder="Enter Mobile Number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email"><b>Enter Email</b></label>
+    <label for="email"><b>Enter Email Address</b></label>
     <input type="text" placeholder="Enter Email id " name="email" id="email" required>
     <br>
 
